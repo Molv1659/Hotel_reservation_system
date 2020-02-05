@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sample.qss</file>
+        <file>sample1.qss</file>
+    </qresource>
+</RCC>
